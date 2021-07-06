@@ -1,0 +1,56 @@
+C:\Users\Danil Grachov\Desktop\gamesense\bin\Debug\gamesense.exe.config
+C:\Users\Danil Grachov\Desktop\gamesense\bin\Debug\gamesense.exe
+C:\Users\Danil Grachov\Desktop\gamesense\bin\Debug\gamesense.pdb
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.csprojAssemblyReference.cache
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.Properties.Resources.resources
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.csproj.GenerateResource.cache
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.csproj.CoreCompileInputs.cache
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.exe
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.pdb
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.Form1.resources
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.Form2.resources
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.Form3.resources
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\bin\Debug\gamesense.exe.config
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\bin\Debug\gamesense.exe
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\bin\Debug\gamesense.pdb
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\obj\Debug\gamesense.csproj.AssemblyReference.cache
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\obj\Debug\gamesense.Form2.resources
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\obj\Debug\gamesense.Form1.resources
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\obj\Debug\gamesense.Form3.resources
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\obj\Debug\gamesense.Properties.Resources.resources
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\obj\Debug\gamesense.csproj.GenerateResource.cache
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\obj\Debug\gamesense.csproj.CoreCompileInputs.cache
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\obj\Debug\gamesense.exe
+C:\Users\clpzo\OneDrive\Desktop\gamesense1\gamesense\obj\Debug\gamesense.pdb
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\bin\Debug\gamesense.exe.config
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\bin\Debug\gamesense.exe
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\bin\Debug\gamesense.pdb
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\obj\Debug\gamesense.csproj.AssemblyReference.cache
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\obj\Debug\gamesense.Form2.resources
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\obj\Debug\gamesense.Form1.resources
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\obj\Debug\gamesense.Form3.resources
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\obj\Debug\gamesense.Properties.Resources.resources
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\obj\Debug\gamesense.csproj.GenerateResource.cache
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\obj\Debug\gamesense.csproj.CoreCompileInputs.cache
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\obj\Debug\gamesense.exe
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1\gamesense\obj\Debug\gamesense.pdb
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1 - Kopie\gamesense\bin\Debug\gamesense.exe.config
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1 - Kopie\gamesense\bin\Debug\gamesense.exe
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1 - Kopie\gamesense\bin\Debug\gamesense.pdb
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1 - Kopie\gamesense\obj\Debug\gamesense.csproj.AssemblyReference.cache
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1 - Kopie\gamesense\obj\Debug\gamesense.Form1.resources
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1 - Kopie\gamesense\obj\Debug\gamesense.Properties.Resources.resources
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1 - Kopie\gamesense\obj\Debug\gamesense.csproj.GenerateResource.cache
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1 - Kopie\gamesense\obj\Debug\gamesense.csproj.CoreCompileInputs.cache
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1 - Kopie\gamesense\obj\Debug\gamesense.exe
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense1 - Kopie\gamesense\obj\Debug\gamesense.pdb
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense hwid get\gamesense\obj\Debug\gamesense.csproj.AssemblyReference.cache
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense hwid get\gamesense\obj\Debug\gamesense.Form1.resources
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense hwid get\gamesense\obj\Debug\gamesense.Properties.Resources.resources
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense hwid get\gamesense\obj\Debug\gamesense.csproj.GenerateResource.cache
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense hwid get\gamesense\obj\Debug\gamesense.csproj.CoreCompileInputs.cache
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense hwid get\gamesense\obj\Debug\gamesense.exe
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense hwid get\gamesense\obj\Debug\gamesense.pdb
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense hwid get\gamesense\bin\Debug\gamesense.exe.config
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense hwid get\gamesense\bin\Debug\gamesense.exe
+C:\Users\clpzo\OneDrive\Desktop\c#\gamesense hwid get\gamesense\bin\Debug\gamesense.pdb
